@@ -7,8 +7,8 @@ Por se tratar de um laboratório foram utilizados os recursos mínimos de Freeti
 
 ## Configuração inicial da instancia 1 (Server)
 
-Ubuntu 22.04
-Freetier
+Ubuntu 22.04/n
+Freetier/n
 t2.micro
 Vpc (Default)
 SG (portas 80 e 22 liberadas)
