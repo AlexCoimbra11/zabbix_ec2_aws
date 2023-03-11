@@ -44,7 +44,7 @@ $ sudo apt install zabbix-server-mysql zabbix-frontend-php zabbix-apache-conf za
 ### 5) Instalando mysql-client
 
 ```
-sudo apt-get install mysql-client
+$ sudo apt-get install mysql-client
 $ sudo apt update
 ```
 ### 6) Conectando a instancia ao RDS
